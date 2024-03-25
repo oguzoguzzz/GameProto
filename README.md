@@ -1,1 +1,1 @@
-Server dosyasının içindekiler bana ait değildir, başka kaynaktan tedarik ettim.
+Server klasörünün içindekiler bana ait değildir, başka kaynaktan tedarik ettim.
